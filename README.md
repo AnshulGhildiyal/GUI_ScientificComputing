@@ -67,6 +67,8 @@ Welcome to the **Scientific Calculator GUI** project! This application provides 
    ```bash
    python Scientific_Calculator.py
 
+---
+
 ## Usage
 
    - Launch the application and select the desired tool from the main menu.
@@ -74,6 +76,7 @@ Welcome to the **Scientific Calculator GUI** project! This application provides 
    - Click the corresponding action button (e.g., `Solve`, `Calculate`, etc.).
    - View results displayed in the application interface.
 
+---
 
 ## Future Scope
 
@@ -97,6 +100,8 @@ Welcome to the **Scientific Calculator GUI** project! This application provides 
 
 7. **Real-Time Collaboration**:
    - Introduce real-time collaborative features for shared problem-solving.
+
+  ---
   
 ## Contributing
 
